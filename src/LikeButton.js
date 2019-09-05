@@ -22,7 +22,7 @@ const Button = styled.button`
   `}
 `;
 
-export default class Toggle extends Component {
+export default class LikeButton extends Component {
   constructor(props) {
     super(props);
     this.state = {
